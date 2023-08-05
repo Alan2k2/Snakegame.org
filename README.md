@@ -15,9 +15,10 @@
 </font>
 </h4>
   <a href="snake.java"> source code </a>
-  <a href="https://github.com/Alan2k2/Snakegame.org/tree/main" > Page  </a>
+
   <br><br>
+    <a href="https://github.com/Alan2k2/Snakegame.org/tree/main" > Page  </a>
   <br><br>
-<video src="https://github.com/Alan2k2/Snakegame.org/assets/140711697/d6eb5d0e-9291-423a-aedb-7df7bbb145a9" type="video/mp4" width="320" height="240">
+<video src="https://github.com/Alan2k2/Snakegame.org/assets/140711697/d6eb5d0e-9291-423a-aedb-7df7bbb145a9" type="video/mp4">
 </video>
 </body>
