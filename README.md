@@ -1,10 +1,4 @@
 
-
-
-
-
-
-
 # Snakegame.org
 <body>
 <h4>
