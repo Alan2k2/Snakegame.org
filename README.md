@@ -12,6 +12,6 @@
   </ul>
 </font>
 </h4>
-<video>
-  <source src="https://github.com/Alan2k2/Snakegame.org/blob/main/snake-output.mp4"  type=video/ogg>
+<video width="320" height="240" controls>
+  <source src="https://github.com/Alan2k2/Snakegame.org/blob/main/snake-output.mp4" type="video/mp4">
 </video>
