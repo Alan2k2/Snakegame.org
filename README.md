@@ -22,7 +22,7 @@ https://github.com/Alan2k2/Snakegame.org/assets/140711697/d6eb5d0e-9291-423a-aed
 </font>
 </h4>
   <a href="snake.java"> source code </a>
-<video width="320" height="240" controls>
+<video controls>
   <source src="https://github.com/Alan2k2/Snakegame.org/assets/140711697/d6eb5d0e-9291-423a-aedb-7df7bbb145a9" type="video/mp4">
 </video>
 </body>
