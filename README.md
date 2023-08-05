@@ -1,4 +1,5 @@
 # Snakegame.org
+<body>
 <h4>
   <font family="Times New Roman" color="green">
   <ul color="green">
@@ -15,3 +16,4 @@
 <video width="320" height="240" controls>
   <source src="https://github.com/Alan2k2/Snakegame.org/blob/main/snake-output.mp4" type="video/mp4">
 </video>
+</body>
