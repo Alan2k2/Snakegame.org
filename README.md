@@ -1,7 +1,7 @@
 # Snakegame.org
 <h4>
   <font family="Times New Roman" color="green">
-  <ul>
+  <ul color="green">
     <li> The game contains Some errors,  i will update latter</li>
     <li> its an simple game to set by java developers</li>
     <li> just play, fun with Java.</li>
